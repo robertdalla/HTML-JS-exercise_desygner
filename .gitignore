@@ -1,0 +1,16 @@
+.DS_Store
+
+#------------------------------------
+# IntelliJ, WEBstorm, PHPstorm ...
+
+.idea/
+.idea/*
+
+#--------------------------------------------------------------------------
+# JS/CSS Build & Pack Files
+
+build
+build/*
+
+node_modules
+node_modules/*
